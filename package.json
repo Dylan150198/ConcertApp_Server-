@@ -1,0 +1,19 @@
+{
+  "name": "concertapp",
+  "version": "1.0.0",
+  "description": "Programmeren 4 oefenapp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dylan150198/ConcertApp_Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dylan150198/ConcertApp_Server/issues"
+  },
+  "homepage": "https://github.com/Dylan150198/ConcertApp_Server#readme"
+}
